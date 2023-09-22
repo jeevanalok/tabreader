@@ -1,0 +1,18 @@
+{
+    "name":"Tab Name Reader",
+    "description":"Read and display current tab",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html"
+
+    },
+    "permissions":["tabs"],
+    
+    "icons":{
+        "16":"/icons/img16.png",
+        "32":"/icons/img32.png",
+        "48":"/icons/img48.png"
+
+    }
+}
